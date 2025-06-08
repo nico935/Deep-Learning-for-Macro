@@ -1,11 +1,11 @@
 
 ---
 
-# Deep Learning Project
+# Deep Learning Project: Partial Differential Equation Solving for Economic Growth Model
 
 ## Overview
 
-This project explores the application of deep learning techniques to solve a classic economic growth model, from Brock and Mirman (1972). The approach follows and adapts methods from Azinovic et al. (2022), utilizing neural networks to approximate the solution to the model.
+This project explores the application of deep learning techniques to solve a classic economic growth model, from Brock and Mirman (1972). The approach adapts methods from Azinovic et al. (2022), utilizing neural networks to approximate the solution to the model.
 
 ## Summary
 
