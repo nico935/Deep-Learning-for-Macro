@@ -20,7 +20,7 @@ We solve a simple optimal growth model with a single agent who seeks to maximize
 The model is a simplified, macroeconomic version of the Cobb-Douglas production function, assuming full depreciation for analytical tractability.
 We use a Neural Network to approximate the optimal policy. This method comes from physics inspired neural network.
 
-- **Chalenge with Deep Learning Mehtod:** Stochasticity can lead to infeasible (e.g., negative) consumption or capital. To address this:.
+- **Challenge with Deep Learning Mehtod:** Stochasticity can lead to infeasible (e.g., negative) consumption or capital. To address this:.
   - I test the authors method of penalizing infeasible prediction 
   - I introduce a custom scaled sigmoid activation that always enforces the constraint and show it's efficiency.
   - I find that the Neural network does not generalize outside of the interval it is trained on, potentially overfitting. 
