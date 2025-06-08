@@ -26,7 +26,6 @@ We use a Neural Network to approximate the optimal policy. This method comes fro
   - I find that the Neural network does not generalize outside of the interval it is trained on, potentially overfitting. 
 ---
 
-## Acknowledgements
+## Reference
 
-- [Azinovic et al. (2022)] for foundational ideas and code structure.
-- [Kahou et al. (2021), Han et al. (2022), Azinovic and Žemlička (2023)] for insights into encoding economic priors and symmetries into network architectures.
+- [Azinovic et al. (2022)] Deep equilibrium nets M Azinovic, L Gaegauf, S Scheidegger - International Economic Review, 2022
