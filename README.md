@@ -1,7 +1,7 @@
 
 ---
 
-# Partial Differential Equation Solving with Neural Operator: Applciation in a classical Economic Growth Model
+# Partial Differential Equation Solving with Neural Operator: Application in a classical Economic Growth Model
 
 ## Overview
 
