@@ -3,7 +3,7 @@
 
 # Partial Differential Equation Solving with Neural Operator: Application to a classical Economic Growth Model
 TO-DO
-Fix final version, remove old versions 
+Fix final version commit issue, remove old versions 
 ## Overview
 
 This project explores the application of deep learning techniques to solve a classic economic growth model, from Brock and Mirman (1972). The approach adapts methods from Azinovic et al. (2022), utilizing neural networks to approximate the solution to the model.
