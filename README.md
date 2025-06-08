@@ -1,7 +1,7 @@
 
 ---
 
-# Deep Learning Project: Partial Differential Equation Solving for Economic Growth Model
+# Partial Differential Equation Solving with Neural Field for Economic Growth Model
 
 ## Overview
 
